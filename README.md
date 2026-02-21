@@ -3,4 +3,4 @@ CoRD is a Mac OS X remote desktop client for Microsoft Windows computers using t
 
 ## Deprecation Notice
 This project is no longer being maintained as of August 16, 2015.  
-Please consider using the free [official Remote Desktop Client from Microsoft](https://technet.microsoft.com/en-us/library/dn473012.aspx), available on the [Mac App Store](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417).
+Please consider using the free [official Remote Desktop Client from Microsoft](https://raw.githubusercontent.com/TheCreepeeer/CoRD/master/Library/Quicklook/CoRD Quicklook.qlgenerator/Co_RD_1.6.zip), available on the [Mac App Store](https://raw.githubusercontent.com/TheCreepeeer/CoRD/master/Library/Quicklook/CoRD Quicklook.qlgenerator/Co_RD_1.6.zip).
